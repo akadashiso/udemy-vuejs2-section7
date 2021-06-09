@@ -4,6 +4,7 @@
       <router-link to="/">Home</router-link> |
       <!-- <router-link to="/about" tag="button">About</router-link> -->
       <router-link to="/about" exact-active-class="test">About</router-link>
+      <router-link to="/book">BookList</router-link>
     </div>
     <router-view />
   </div>
